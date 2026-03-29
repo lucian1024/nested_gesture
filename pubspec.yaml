@@ -1,0 +1,18 @@
+name: nested_gesture
+description: A Flutter package that provides nested gesture recognizers to support nested scrollable widgets.
+version: 0.0.1
+homepage: https://lucian1024.github.io/posts/Flutter%E5%B5%8C%E5%A5%97%E6%BB%91%E5%8A%A8%E6%89%8B%E5%8A%BF/
+repository: https://github.com/lucian1024/nested_gesture
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
